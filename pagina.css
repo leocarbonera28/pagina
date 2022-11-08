@@ -1,0 +1,45 @@
+body p{
+	font-size: 20px;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+}  
+#cabecalho{
+height: 100px;
+background: orange;
+width: 90%;
+margin: 0 auto;
+}
+#menu{
+	height: 500px;
+	width: 180px;
+	background: greenyellow;
+	float: left;
+	margin-left: 60px;
+	margin-top: 10px;
+}
+#principal{
+	height:500px;
+	width: 900px;
+	background: lightblue;
+	float: left;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+#lado{
+	height:500px; 
+	width: 180px;
+	background: red;
+	float: left;
+	margin-left: 10px; 
+	margin-top: 10px;
+}
+#rodape{
+	height: 100px;
+	background: pink;
+	clear: both;
+	width: 90%;
+	margin: 0 auto;
+}
